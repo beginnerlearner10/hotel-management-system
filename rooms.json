@@ -1,0 +1,44 @@
+[
+    {
+        "name":"Super OYO Collection O Hotel Aqua Villa",
+        "rentPerDay":3000,
+        "maxCount":3,
+        "description":"Welcome to the Collection O 86756 Hotel Aqua Villa Kolkata Airport, located 8.5 km from Maidan and 5 km from Eco Park in Kolkata.",
+        "phoneNumber":1234567890,
+        "type":"Deluxe",
+        "imageUrls":[
+            "https://images.oyoroomscdn.com/uploads/hotel_image/172757/large/lgqygqglvxvj.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/172757/large/ycthskqvcvbu.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/172757/large/hfjksobllxgi.jpg"
+        ],
+        "currentBookings":[]
+    },
+    {
+        "name":"Super OYO Townhouse 209 Habitat New Town",
+        "rentPerDay":2500,
+        "maxCount":3,
+        "description":"OYO Townhouse 209 Habitat New Town is a premium hotel for stylish experiences, and is a top-rated hotel on Google. It is located in Kolkata, 15 km from Maidan, and 6 km from Eco Park.",
+        "phoneNumber":1234567890,
+        "type":"Deluxe",
+        "imageUrls":[
+            "https://images.oyoroomscdn.com/uploads/hotel_image/104255/large/e813340fd3d85424.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/104255/large/98efdf7a9e34e4b6.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/104255/large/878c4f99de7fc125.jpg"
+        ],
+        "currentBookings":[]
+    },
+    {
+        "name":"Super OYO Townhouse 229 Hotel Mannat International",
+        "rentPerDay":1000,
+        "maxCount":3,
+        "description":"OYO Townhouse 229 Hotel Mannat International is a premium hotel which offers stylish experiences with every stay. The hotel is located in Kolkata, 6 km from Maidan and 15 km from Eco Park.",
+        "phoneNumber":1234567890,
+        "type":"Deluxe",
+        "imageUrls":[
+            "https://images.oyoroomscdn.com/uploads/hotel_image/104372/large/ada08dd5d8d90523.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/104372/large/rxggkntwxhry.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/104372/large/dktnbjouhgfw.jpg"
+        ],
+        "currentBookings":[]
+    }
+]
